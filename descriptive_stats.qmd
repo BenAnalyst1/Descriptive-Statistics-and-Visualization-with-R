@@ -84,10 +84,10 @@ write_dta(
 
 3.  Descriptive statistics.
 
--   There aare 420 observations and 11 variables.
+-   There are 420 observations and 11 variables.
 -   The pupil's average test score is 654.16 points, with the maximum and minimum points being 706.75 and 605.55 respectfully.
 -   A district spends on average 5312 US dollars per pupil.
--   The average share of pupil's with food voucher is 45 percent
+-   The average share of pupils with food voucher is 45 percent
 -   The ratio of pupils per teacher is about 20 percent.
 -   The average income of a district is about 15,000 US dollars.
 -   The mean share of non-native English speakers is about 16 percent.
