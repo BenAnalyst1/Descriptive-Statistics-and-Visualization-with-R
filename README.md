@@ -2,7 +2,7 @@
 *Exploratory statistics and visualizations using RStudio*
 
 # Objective
-- My immediate goal here was to simply practice data visualization using R's ggplot2. I visualized the relationship between pupil's average test scores and variables such as expenditure per pupil, income, pupil-teacher ratio, among others. 
+- To use RStudio to visualize the relationship between pupil's average test scores and variables such as expenditure per pupil, income, pupil-teacher ratio, among others. 
 
 # Tools & Packages
 `R/RStudio`
